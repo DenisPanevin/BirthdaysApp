@@ -1,0 +1,9 @@
+errors on subscribeTo method
+{"error:":"pq: duplicate key value violates unique constraint \"subscriptions_subscriber_id_subscribed_to_id_key\""}
+add cors and contenttype
+check uf u exists in exec job
+сделать удаление поль=я
+добавит работу в календарь при каждой новой подписке
+вернуть пользователя при создании (или ркдирект)
+сделай маршал даты
+trimDate
